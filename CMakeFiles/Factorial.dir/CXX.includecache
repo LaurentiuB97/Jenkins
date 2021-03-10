@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/laur/Desktop/Jenkins/src/Factorial.cpp
+Factorial.h
+/home/laur/Desktop/Jenkins/src/Factorial.h
+
+/home/laur/Desktop/Jenkins/src/Factorial.h
+
+/home/laur/Desktop/Jenkins/src/main.cpp
+iostream
+-
+Factorial.h
+/home/laur/Desktop/Jenkins/src/Factorial.h
+
